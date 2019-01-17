@@ -4,4 +4,4 @@ EndoC-βH1 is emerging as a critical human beta cell model to study the genetic 
 
 App Location: https://shinyapps.jax.org/endoc-islet-multi-omics/
 
-
+![](https://github.com/nlawlor/Multiomic_Browser/blob/master/Graphical.abstract.FINAL.jpg)
